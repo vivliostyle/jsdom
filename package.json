@@ -45,10 +45,10 @@
     "xml-name-validator": "^4.0.0"
   },
   "peerDependencies": {
-    "canvas": "^2.5.0"
+    "@napi-rs/canvas": "^0.1.41"
   },
   "peerDependenciesMeta": {
-    "canvas": {
+    "@napi-rs/canvas": {
       "optional": true
     }
   },
