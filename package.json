@@ -1,6 +1,9 @@
 {
-  "name": "jsdom",
-  "version": "25.0.1",
+  "name": "@vivliostyle/jsdom",
+  "version": "25.0.1-vivliostyle-cli.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
     "dom",
